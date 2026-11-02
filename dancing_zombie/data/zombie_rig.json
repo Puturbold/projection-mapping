@@ -1,0 +1,54 @@
+{
+  "imageW": 1000,
+  "imageH": 1602,
+  "parts": [
+    {
+      "name": "back_arm",
+      "file": "zombie_back_arm.png",
+      "x": 192,
+      "y": 480,
+      "pivotX": 300,
+      "pivotY": 560
+    },
+    {
+      "name": "left_leg",
+      "file": "zombie_left_leg.png",
+      "x": 344,
+      "y": 853,
+      "pivotX": 630,
+      "pivotY": 1000
+    },
+    {
+      "name": "right_leg",
+      "file": "zombie_right_leg.png",
+      "x": 537,
+      "y": 718,
+      "pivotX": 780,
+      "pivotY": 900
+    },
+    {
+      "name": "torso",
+      "file": "zombie_torso.png",
+      "x": 216,
+      "y": 263,
+      "pivotX": 640,
+      "pivotY": 960
+    },
+    {
+      "name": "front_arm",
+      "file": "zombie_front_arm.png",
+      "x": 347,
+      "y": 844,
+      "pivotX": 500,
+      "pivotY": 800
+    },
+    {
+      "name": "head",
+      "file": "zombie_head.png",
+      "x": 0,
+      "y": 0,
+      "pivotX": 400,
+      "pivotY": 490
+    }
+  ]
+}

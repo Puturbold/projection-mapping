@@ -1,0 +1,8 @@
+# macOS folder-view files
+.DS_Store
+
+# Processing crash-recovery copies
+*.autosave
+
+# Private chat export
+conversation_transcript.md
